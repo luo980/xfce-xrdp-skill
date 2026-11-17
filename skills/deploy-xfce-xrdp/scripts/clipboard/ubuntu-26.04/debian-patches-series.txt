@@ -1,0 +1,5 @@
+make-fixes.diff
+config.diff
+pulse-debian.patch
+document-certs.diff
+CVE-2025-68670-Buffer-overflow-parsing-domain.patch

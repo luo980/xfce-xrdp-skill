@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xfce 远程桌面部署"
+  short_description: "通过 SSH 部署并验收 Xfce、xrdp、剪贴板与 Fail2ban"
+  default_prompt: "使用 $deploy-xfce-xrdp 为指定 Linux SSH 主机部署美化后的远程桌面，并验证连接、剪贴板与登录保护。"
